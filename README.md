@@ -5,9 +5,16 @@
 
 > I build things I wish existed — from AI products and developer tools to resources that help people break into tech.
 
-**Currently:** building AI-powered products, experimenting with new ideas, and sharing what I learn along the way.
 
-## Things I’ve Built
+## Experience
+
+- **Microsoft — Software Engineer Intern** · [GitHub](https://github.com/tbhardwaj20)  
+  Built distributed Kubernetes systems, including a sharded controller using consistent hashing for scalable workload distribution.
+
+- **Vitti Capital — Python Developer** · [GitHub](https://github.com/tusharbhardwaj26)  
+  Building trading infrastructure, automation, real-time systems, and internal platforms for financial operations.
+
+## Current Projects
 
 - [**Weaave**](https://github.com/minianon/weaave) — Visual AI workflow builder for designing and running AI-powered automations
 - [**ShortlistMe**](https://github.com/minianon/ShortlistMe) — AI-powered platform that turns resumes into personalized portfolio websites
@@ -21,20 +28,17 @@
 - [**Maze Solver**](https://github.com/minianon/MazeSolver) — Interactive maze generator and solver with multiple algorithms
 
 
-## Experience
+## GitHub Activity
 
-- **Microsoft — Software Engineer Intern** · [GitHub](https://github.com/tbhardwaj20)  
-  Built distributed Kubernetes systems, including a sharded controller using consistent hashing for scalable workload distribution.
-
-- **Vitti Capital — Python Developer** · [GitHub](https://github.com/tusharbhardwaj26)  
-  Building trading infrastructure, automation, real-time systems, and internal platforms for financial operations.
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=minianon&hide_border=true)
+  
 
 ## Beyond Code
 
-- **Writing** — sharing interview experiences, engineering lessons, and things I learn on [Medium](https://medium.com/@minianon)
-- **Mentoring** — mentored 500+ students through [Topmate](https://topmate.io/tusharbhardwaj)
-- **Community** — built [Mini Anon Job Alerts](https://whatsapp.com/channel/0029Vb67tYF0rGiSuzXcHw2C), now 2K+ students strong
-- **Building** — constantly experimenting with AI-native products and new ideas
+- **Mentoring** — Helping 500+ developers through [Topmate](https://topmate.io/tusharbhardwaj)
+- **Community** — Built [Mini Anon Job Alerts](https://whatsapp.com/channel/0029Vb67tYF0rGiSuzXcHw2C), now 3K+ students strong
+- **Writing** — Sharing engineering lessons, interview experiences, and things I learn on [Medium](https://medium.com/@minianon)
+- **Building** — Constantly experimenting with AI products, developer tools, and ideas that I think should exist
 
 ☕ [**Buy me a chai**](https://buymeachai.ezee.li/minianon) — If something I built or shared helped you, a chai keeps me building. ❤️
 
@@ -66,20 +70,12 @@
 
 ## Recognition
 
-- Selected for **Microsoft’s Software Engineer Internship** through an **off-campus process** — [my experience](https://medium.com/@minianon/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
-- Featured twice at [**Times Square**](https://www.linkedin.com/posts/minianon_timessquare-topmate-keepbuilding-ugcPost-7366124258722316289-kTVg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4sgloB7CiwCsH505Gt8Bov5ePkQPnMwTU)
-- **26K+ followers** on [LinkedIn](https://www.linkedin.com/in/minianon)
-- Top **0.1% mentor on [Topmate](https://topmate.io/tusharbhardwaj)**, mentored **500+ students and counting**
-- Built the [**Mini Anon Job Alerts**](https://whatsapp.com/channel/0029Vb67tYF0rGiSuzXcHw2C) community, now **2K+ students strong**
-- Winner — [**SaaS Market Competition**](https://x.com/joni_vrbt/status/2028263528583348552?s=20)
-- Runner-up — [**Vibeathon**](https://x.com/joni_vrbt/status/2042710597704519848?s=20)
-- Contributed as a **Problem Reviewer & Solution Author** on [LeetCode](https://leetcode.com/)
-- Worked with **international clients**
-
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/minianon)
+- **Microsoft SWE Intern** — Selected through an [off-campus process](https://medium.com/@minianon/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
+- Featured **3× on [Times Square](https://www.linkedin.com/posts/minianon_timessquare-topmate-keepbuilding-ugcPost-7366124258722316289-kTVg/)** for developer mentorship
+- Built a **26K+ [LinkedIn](https://www.linkedin.com/in/minianon) audience** and ranked among the **Top 0.1% mentors on [Topmate](https://topmate.io/tusharbhardwaj)**
+- **Hackathon wins:** [SaaS Market Competition](https://x.com/joni_vrbt/status/2028263528583348552?s=20) · [Vibeathon](https://x.com/joni_vrbt/status/2042710597704519848?s=20)
+- **LeetCode:** [Top 14,100 globally](https://leetcode.com/u/minianon/) · 1,300+ problems · 1,000+ day streak
+- Published a patent and had **Edu Hub** accepted at 2 academic conferences
 
 
 ## Media
