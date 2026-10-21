@@ -72,7 +72,7 @@
 
 - **Microsoft SWE Intern** — Selected through an [off-campus process](https://medium.com/@minianon/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
 - Featured **3× on [Times Square](https://www.linkedin.com/posts/minianon_timessquare-topmate-keepbuilding-ugcPost-7366124258722316289-kTVg/)** for developer mentorship
-- Built a **26K+ [LinkedIn](https://www.linkedin.com/in/minianon) audience** and ranked among the **Top 0.1% mentors on [Topmate](https://topmate.io/tusharbhardwaj)**
+- Built a **27K+ [LinkedIn](https://www.linkedin.com/in/minianon) audience** and ranked among the **Top 0.1% mentors on [Topmate](https://topmate.io/tusharbhardwaj)**
 - **Hackathon wins:** [SaaS Market Competition](https://x.com/joni_vrbt/status/2028263528583348552?s=20) · [Vibeathon](https://x.com/joni_vrbt/status/2042710597704519848?s=20)
 - **LeetCode:** [Top 14,100 globally](https://leetcode.com/u/minianon/) · 1,300+ problems · 1,000+ day streak
 - Published a patent and had **Edu Hub** accepted at 2 academic conferences
