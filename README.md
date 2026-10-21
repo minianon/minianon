@@ -1,7 +1,5 @@
 # Hi, I'm Tushar 👋
 
-**I build things I wish existed.**
-
 Software engineer working on AI products and distributed systems.
 Currently building trading infrastructure and real-time systems at **Vitti Capital**.
 Previously a Software Engineer Intern at **Microsoft**, where I built a sharded Kubernetes controller using consistent hashing for scalable workload distribution.
