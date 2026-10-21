@@ -10,20 +10,20 @@ Previously a Software Engineer Intern at **Microsoft**, where I built a sharded 
 
 ### What I'm building
 
-- [**Weaave**](https://github.com/minianon/weaave): visual AI workflow builder for designing and running AI automations
-- [**ShortlistMe**](https://github.com/minianon/ShortlistMe): turns a resume into a live portfolio website, with analytics · [demo](https://www.youtube.com/watch?v=4nCCIvL8SvQ)
-- [**HireLens**](https://github.com/minianon/HireLens): AI resume screening with candidate scoring and ranking
-- [**MiniLink**](https://github.com/minianon/MiniLink): a simpler link-in-bio platform · [demo](https://www.youtube.com/watch?v=BVS7qoXoRCs)
+- [**Weaave**](https://weaave.minianon.in): visual AI workflow builder with parallel execution, background jobs, and media processing · [code](https://github.com/minianon/weaave)
+- [**ShortlistMe**](https://shortlistme.site): turns your resume into a live portfolio website, with analytics · [demo](https://www.youtube.com/watch?v=4nCCIvL8SvQ) · [code](https://github.com/minianon/ShortlistMe)
+- [**HireLens**](https://lens.minianon.in): AI resume screening that ranks candidates and spots skill gaps · [code](https://github.com/minianon/HireLens)
+- [**MiniLink**](https://link.minianon.in): a simpler link-in-bio platform · [demo](https://www.youtube.com/watch?v=BVS7qoXoRCs)
 
 <details>
 <summary>More projects</summary>
 
-- [**PulseAI Prep**](https://github.com/minianon/PulseAI): AI mock interviews with personalized feedback
-- [**MiniMock**](https://github.com/minianon/MiniMock): instant chat, social media, and AI mockup generator
-- [**MiniRizz**](https://github.com/minianon/minirizz): AI wingman for better replies
-- [**AnonBeats**](https://github.com/minianon/AnonBeats): personal, ad-free music player
-- [**Canvas Editor**](https://github.com/minianon/Canvas-Editor): minimal 2D canvas editor with cloud persistence
-- [**Maze Solver**](https://github.com/minianon/MazeSolver): maze generator and solver with multiple algorithms
+- [**PulseAI Prep**](https://ai-interview-platform-pink.vercel.app): AI mock interviews with a real-time voice assistant · [code](https://github.com/minianon/PulseAI)
+- [**MiniMock**](https://mock.minianon.in): instant chat, social media, and AI mockup generator · [code](https://github.com/minianon/MiniMock)
+- [**MiniRizz**](https://rizz.minianon.in): AI wingman for better replies · [code](https://github.com/minianon/minirizz)
+- [**AnonBeats**](https://beats.minianon.in): personal, ad-free music player · [code](https://github.com/minianon/AnonBeats)
+- [**Canvas Editor**](https://canvas.minianon.in): minimal 2D canvas editor with cloud persistence · [code](https://github.com/minianon/Canvas-Editor)
+- [**Maze Solver**](https://maze.minianon.in): maze generator and solver with multiple algorithms · [code](https://github.com/minianon/MazeSolver)
 
 </details>
 
